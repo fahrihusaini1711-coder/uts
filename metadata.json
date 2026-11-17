@@ -1,0 +1,6 @@
+{
+  "name": "KasLoka - Sistem Keuangan",
+  "description": "Aplikasi manajemen keuangan pribadi dan UMKM dalam Bahasa Indonesia dengan pelacakan transaksi, dompet, anggaran, laporan laba rugi, serta hutang & piutang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
